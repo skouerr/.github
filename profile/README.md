@@ -4,23 +4,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=CONTACT&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <a href="http://skouerr.dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=SITE%20WEB&logo=esri&label=&color=yellow&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
-  </a>
-</div>
-
-###
-
 <h1 align="center">Bienvenue sur Skouerr ! 👋</h1>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=skouerr.skouerr&right_color=darkgreen&left_text=Visiteurs"  />
-</div>
 
 ###
 
@@ -36,7 +20,13 @@
 
 ###
 
-<p align="left">Skouerr repose sur trois outils principaux :<br><br>Interface en ligne de commande : Permet de gérer la création d’éléments.<br><br>Thème de démarrage : Comprend des fonctionnalités prévues pour améliorer l’expérience développeur.<br><br>Utilitaire JavaScript : Permet la compilation et le rafraîchissement en direct des assets.<br>Skouerr est un outil open-source développé par l'agence digitale R2.</p>
+<p align="left">Skouerr repose sur trois outils principaux :</p>
+
+- **Interface en ligne de commande :** Permet de gérer la création d’éléments.
+- **Thème de démarrage :** Comprend des fonctionnalités prévues pour améliorer l’expérience développeur.
+- **Utilitaire JavaScript :** Permet la compilation et le rafraîchissement en direct des assets.
+
+<p align="left">Skouerr est un outil open-source développé par l'agence digitale R2.</p>
 
 ###
 
@@ -44,7 +34,7 @@
 
 ###
 
-<p align="left">Pour contribuer au projet Skouerr, visitez notre page GitHub. Vous pouvez signaler des bugs, proposer des améliorations, ou soumettre des pull requests. Rejoignez notre communauté pour discuter et collaborer sur les outils. Chaque contribution, grande ou petite, est précieuse !<br><br>CLI :<br>https://github.com/skouerr/skouerr-cli<br><br>Scripts :<br>https://github.com/skouerr/skouerr-scripts<br><br>Thème :<br>https://github.com/skouerr/skouerr-theme<br><br>Les pull requests sont évidemment les bienvenues. Elles seront examinées par les développeurs qui maintiennent le dépôt de l’équipe R2.<br><br>Si vous détectez un bug, un problème ou une évolution potentielle, vous pouvez ouvrir une issue sur le projet GitHub correspondant.<br><br>Pour toute question, n’hésitez pas à contacter l’équipe à l'adresse suivante : <a href="mailto:support-skouerr@r2.fr">support-skouerr@r2.fr</a>.</p>
+<p align="left">Pour contribuer au projet Skouerr, visitez notre page GitHub. Vous pouvez signaler des bugs, proposer des améliorations, ou soumettre des pull requests. Rejoignez notre communauté pour discuter et collaborer sur les outils. Chaque contribution, grande ou petite, est précieuse !<br><br>CLI :<br>https://github.com/skouerr/skouerr-cli<br><br>Scripts :<br>https://github.com/skouerr/skouerr-scripts<br><br>Thème :<br>https://github.com/skouerr/skouerr-theme<br><br>Les pull requests sont évidemment les bienvenues. Elles seront examinées par les développeurs qui maintiennent le dépôt de l’équipe R2.<br><br>Si vous détectez un bug, un problème ou une évolution potentielle, vous pouvez ouvrir une issue sur le projet GitHub correspondant.<br><br>Pour toute question, n’hésitez pas à contacter l’équipe sur le <a href="https://skouerrcommunity.slack.com/">Slack dédié</a>.</p>
 
 ###
 
